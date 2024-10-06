@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Israel-debug003
-- 👀 I’m interested in data science, AI, cloud security, web development and web design
+- 👋 Hi, I’m @Adeolu-Tech-Automation
+- 👀 I’m interested in data science, AI, cloud computing, full-stack web development,  data analysis,  database management, cyber security, ML, manufacturing operations, and Automation 
 - 🌱 I’m currently learning python, data science
 - 💞️ I’m looking to collaborate on data sience, AI, PYTHON    
-- 📫 How to reach me on +2347053082658
+- 📫 How to reach me on +2347053082658 or +2347037176627
 
 <!---
 Israel-debug003/Israel-debug003 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
